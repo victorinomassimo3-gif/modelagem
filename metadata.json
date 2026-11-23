@@ -1,0 +1,6 @@
+{
+  "name": "Desparasitação Kids Angola",
+  "description": "Avaliação personalizada de saúde infantil e protocolo natural de desparasitação para mães e famílias em Angola.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
